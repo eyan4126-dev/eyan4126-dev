@@ -11,6 +11,16 @@
 
 ---
 
+## 📌 Sobre mim
+
+- 💻 Desenvolvedor Fullstack em formação com foco em **PHP, JavaScript e MySQL**
+- 🔄 Experiência com metodologias ágeis — **Scrum e Kanban** no Jira
+- 🌱 Em constante evolução, sempre buscando boas práticas e código limpo
+- 🎯 Atualmente aprofundando conhecimentos em **arquitetura de sistemas e boas práticas de back-end**
+- 🤝 Aberto a colaborações e projetos que façam a diferença
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 **Domínio**
@@ -40,46 +50,40 @@
 
 ---
 
-## 📌 Sobre mim
+## 🚀 Projetos em Destaque
 
-- 💻 Fullstack em formação com foco em **PHP, JavaScript e MySQL**
-- 🔄 Experiência com metodologias ágeis — **Scrum e Kanban** no Jira
-- 🌱 Em constante evolução, sempre buscando boas práticas e código limpo
-- 🤝 Aberto a colaborações e projetos que façam a diferença
+> Projetos que desenvolvi aplicando minhas habilidades na prática.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyan4126-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyan4126-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=eyan4126-dev&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
+### 🔬 MCLab — Sistema de Gestão de Estoque Laboratorial
+Sistema web completo para controle de insumos e movimentações de laboratório.
+- **Tecnologias:** PHP · CodeIgniter · MySQL · Bootstrap · JavaScript
+- **Destaques:** controle de estoque com alertas de nível mínimo, registro de movimentações, dashboard com indicadores de risco e painel administrativo
 
 ---
 
-## 🏆 Troféus
+## 📅 Minha Jornada
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=eyan4126-dev&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+```
+2025  →  Primeiros passos com HTML, CSS e JavaScript
+2025/26  →  PHP, MySQL e CodeIgniter · Projetos reais · Metodologias ágeis
+2026  →  Aprofundando boas práticas · Explorando React e TypeScript
+Futuro →  Arquitetura de sistemas · APIs robustas · Crescer como dev
+```
 
 ---
 
-## 📈 Atividade
+## 🎯 Objetivos
 
-[![Yan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eyan4126-dev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- [ ] Consolidar conhecimento em **React e TypeScript**
+- [ ] Desenvolver e publicar uma **API REST completa**
+- [ ] Contribuir com projetos **open source**
+- [ ] Conseguir minha **primeira oportunidade profissional** como dev
+
+---
+
+## 💬 Uma frase que me guia
+
+> *"Todo especialista já foi um dia um iniciante. A diferença é que ele não parou."*
 
 ---
 
