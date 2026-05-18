@@ -1,6 +1,6 @@
 # Olá, eu sou o Yan Oliveira 👋
 
-Desenvolvedor Fullstack Júnior apaixonado por construir soluções do banco de dados até a interface. Atualmente focado no ecossistema PHP + JavaScript, com experiência em projetos reais usando metodologias ágeis.
+Desenvolvedor Fullstack em formação apaixonado por construir soluções do banco de dados até a interface. Atualmente focado no ecossistema PHP + JavaScript, com experiência em projetos reais usando metodologias ágeis.
 
 ---
 
