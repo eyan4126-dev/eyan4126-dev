@@ -5,8 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=PHP+%2B+JavaScript+%2B+MySQL;Do+banco+de+dados+à+interface;Aprendendo+sempre%2C+entregando+sempre.)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=eyan4126-dev&color=3b82f6&style=flat-square&label=Visitantes)
-
 </div>
 
 ---
